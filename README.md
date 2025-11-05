@@ -1,6 +1,20 @@
 # Decision Error Generative Model (DEGM)
 
 A unified, estimable model for **why people make wrong decisions**, with clean levers for information efficiency (κ), bias (b), friction (T), and noise (σ).
+## 📊 Model Visualization
+
+### 1️⃣ Distributions: Δ and Social Pull (x)
+![Distributions](01_distributions.png)
+
+### 2️⃣ Error vs Decision Difficulty (Δ)
+![Error vs Δ](02_error_vs_delta.png)
+
+### 3️⃣ Accuracy under Time Pressure
+![Accuracy under Time Pressure](03_accuracy_time_pressure.png)
+
+### 4️⃣ Error Landscape
+![Error Landscape](04_error_landscape.png)
+
 
 ## Repo structure
 ```
