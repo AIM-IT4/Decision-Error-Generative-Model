@@ -1,0 +1,6 @@
+Scenario,Mean error probability
+Baseline (estimated),0.365951410991199
+Increase information efficiency (kappa x1.2),0.34503697080793505
+Reduce social bias (beta_b x0.5),0.34990922865305674
+"Lower time pressure (T0,tau x0.7)",0.34510858479875756
+Lower internal noise (sigma x0.7),0.3631268988229416
